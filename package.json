@@ -1,0 +1,19 @@
+{
+  "name": "meucurriculo",
+  "version": "1.0.0",
+  "description": "My curriculum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curriculum",
+    "resume"
+  ],
+  "author": "Matheus Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
